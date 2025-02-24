@@ -1,0 +1,6 @@
+PING google.com (172.253.62.113) 56(84) bytes of data.
+64 bytes from bc-in-f113.1e100.net (172.253.62.113): icmp_seq=1 ttl=100 time=18.5 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.537/18.537/18.537/0.000 ms
